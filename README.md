@@ -1,0 +1,2 @@
+# Stranka
+Stranka o strance
